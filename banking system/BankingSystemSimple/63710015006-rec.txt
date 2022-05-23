@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2020-07-04] [08:13:34]       12345              12345
